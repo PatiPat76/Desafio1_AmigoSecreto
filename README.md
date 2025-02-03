@@ -27,8 +27,14 @@ El proyecto se encuentra en desarrollo. Se han implementado las funcionalidades 
 - **Validar entrada:** Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
 - **Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
+  
+<img src="assets/Listadeamigos.png" alt="Demostración de Funciones y Aplicaciones" width="400" height="400">
 
+<<<<<<< HEAD
 ## Acceso a la web del Proyecto
+=======
+## Acceso al Proyecto
+>>>>>>> main
 Puedes acceder al proyecto [aquí](https://patipat76.github.io/Desafio1_AmigoSecreto/).
 
 ## Tecnologías Utilizadas
