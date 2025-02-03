@@ -27,6 +27,7 @@ El proyecto se encuentra en desarrollo. Se han implementado las funcionalidades 
 - **Validar entrada:** Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
 - **Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
+  ![demostracion](assets/Listadeamigos.png)
 
 ## Acceso al Proyecto
 Puedes acceder al proyecto [aquí](https://github.com/tu-usuario/amigo-secreto).
