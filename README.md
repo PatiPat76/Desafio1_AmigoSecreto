@@ -28,8 +28,8 @@ El proyecto se encuentra en desarrollo. Se han implementado las funcionalidades 
 - **Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
-## Acceso al Proyecto
-Puedes acceder al proyecto [aquí](https://github.com/tu-usuario/amigo-secreto).
+## Acceso a la web del Proyecto
+Puedes acceder al proyecto [aquí](https://patipat76.github.io/Desafio1_AmigoSecreto/).
 
 ## Tecnologías Utilizadas
 - **HTML:** Estructura de la página web realizado por ALURA.
