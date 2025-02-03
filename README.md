@@ -31,7 +31,7 @@ El proyecto se encuentra en desarrollo. Se han implementado las funcionalidades 
 <img src="assets/Listadeamigos.png" alt="Demostración de Funciones y Aplicaciones" width="400" height="400">
 
 ## Acceso al Proyecto
-Puedes acceder al proyecto [aquí](https://github.com/tu-usuario/amigo-secreto).
+Puedes acceder al proyecto [aquí](https://patipat76.github.io/Desafio1_AmigoSecreto/).
 
 ## Tecnologías Utilizadas
 - **HTML:** Estructura de la página web realizado por ALURA.
