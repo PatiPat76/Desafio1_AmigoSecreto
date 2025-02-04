@@ -48,5 +48,5 @@ Puedes acceder al proyecto [aquí](https://patipat76.github.io/Desafio1_AmigoSec
 ## Personas Desarrolladoras del Proyecto
 - **[Tu Nombre](https://github.com/tu-usuario):** JavaScript desarrollado por Liliana Rodriguez.
 
-## Mejoras por hacer
+## Adiciones:
 - **limitar el acceso de caracteres en valor de letras, no aceptar números.
