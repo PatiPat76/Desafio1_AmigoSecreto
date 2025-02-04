@@ -30,11 +30,7 @@ El proyecto se encuentra en desarrollo. Se han implementado las funcionalidades 
   
 <img src="assets/Listadeamigos.png" alt="Demostración de Funciones y Aplicaciones" width="400" height="400">
 
-<<<<<<< HEAD
-## Acceso a la web del Proyecto
-=======
 ## Acceso al Proyecto
->>>>>>> main
 Puedes acceder al proyecto [aquí](https://patipat76.github.io/Desafio1_AmigoSecreto/).
 
 ## Tecnologías Utilizadas
