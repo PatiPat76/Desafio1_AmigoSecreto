@@ -16,7 +16,7 @@ function agregarAmigo() {
     return;
     }
 
-    // Validar que el nombre no exceda los 30 caracteres
+    // Validar que el nombre no exceda los 35 caracteres
     if (nombre.length > 35) {
     alert("Se sobrepasó la cantidad de caracteres (letras).");
     return;
