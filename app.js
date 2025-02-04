@@ -10,7 +10,17 @@ function agregarAmigo() {
         alert("Por favor, inserte un nombre.");
         return;
     }
+    // Validar que el nombre no contenga números
+    if (/\d/.test(nombre)) {
+    alert("Escribe el nombre de tu amigo sin números.");
+    return;
+    }
 
+    // Validar que el nombre no exceda los 30 caracteres
+    if (nombre.length > 35) {
+    alert("Se sobrepasó la cantidad de caracteres (letras).");
+    return;
+}
     // Actualizar el array de amigos
     amigos.push(nombre);
 
